@@ -1,5 +1,5 @@
 # MongoDB Commerce
-29º projeto na Trybe. Um projeto para praticar criação de queries CRUD de MongoDB.
+28º projeto na Trybe. Um projeto para praticar criação de queries CRUD de MongoDB.
 
 ## Tecnologias empregadas:
 
